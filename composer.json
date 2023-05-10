@@ -8,6 +8,7 @@
         "php": "7.3||^8.0",
         "barryvdh/laravel-snappy": "*",
         "coreui/coreui": "*",
+        "fideloper/proxy": "^4.4",
         "fruitcake/laravel-cors": "^2.0",
         "guzzlehttp/guzzle": "^7.0.1",
         "h4cc/wkhtmltopdf-amd64": "0.12.x",
@@ -15,6 +16,8 @@
         "laravel/jetstream": "1.6.*",
         "laravel/sanctum": "^2.11",
         "laravel/tinker": "^2.5",
+        "laravel/ui": "3.0.0",
+        "laravelcollective/html": "^6.4",
         "maatwebsite/excel": "*",
         "phpoffice/phpspreadsheet": "^1.24",
         "yajra/laravel-datatables-oracle": "*"
